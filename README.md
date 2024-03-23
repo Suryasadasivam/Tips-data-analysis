@@ -1,4 +1,4 @@
-# Tips-data-analysis
+# Tips-dataset-analysis
 
 **Overview**
 
@@ -18,8 +18,8 @@ The "Tips" dataset contains information about restaurant bills and tips. Each en
   
 **Repository Structure**
 
-- Tips.ipynb: Jupyter notebooks containing the code for data exploration, preprocessing, analysis, and visualization.
-- results: Output files, visualizations, and summaries generated during the analysis.
+- Tips dateset Analysis.ipynb: Jupyter notebooks containing the code for data exploration, preprocessing, analysis, and visualization.
+- Summary: summary  generated during the hypothesis testing.
 - README.md: This file, providing an overview of the project.
 
 **Dependencies**
